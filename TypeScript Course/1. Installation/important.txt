@@ -1,0 +1,6 @@
+1. VS Code (From Google)
+2. Node.js (From Google)
+3. npm i -g typescript  (on CMD)
+4. npm install -g ts-node (on CMD)
+5. Install Code Runner (VS Code Extension)
+6. Make a shortcut key for code runner (ctr + enter)
